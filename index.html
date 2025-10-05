@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio Profesional - Henzo Alejandro Arrué Muñoz</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">Henzo Alejandro Arrué Muñoz</h1>
+      <nav>
+        <ul>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#habilidades">Habilidades</a></li>
+          <li><a href="#proyectos">Proyectos</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+      <!-- Botón modo oscuro -->
+      <div class="theme-toggle">
+        <input type="checkbox" id="toggle-theme">
+        <label for="toggle-theme" class="toggle-label" title="Cambiar tema"></label>
+      </div>
+    </div>
+  </header>
+
+  <section id="inicio" class="hero">
+    <div class="container">
+
+      <!--h2>Hola, soy <span>Henzo Arrué Muñoz</span></h2-->
+      <img src="images/perfil.png" alt="Foto de Henzo Arrué Muñoz" class="profile-pic" width="250" height="265">
+      <p>Docente especialista en matemáticas y estadística.<br>Desarrollador con enfoque en Machine Learning y Linux.</p>
+      <a href="#proyectos" class="btn">Ver Portafolio</a>
+    </div>
+  </section>
+
+
+  <section id="habilidades" class="skills">
+    <div class="container">
+      <h2>Habilidades</h2>
+      <div class="skills-grid">
+        <div class="skill">
+          <h3>Python</h3>
+          <p>Experiencia en análisis de datos, automatización y desarrollo de APIs.</p>
+        </div>
+        <div class="skill">
+          <h3>Machine Learning</h3>
+          <p>Entrenamiento y evaluación de modelos supervisados y no supervisados.</p>
+        </div>
+        <div class="skill">
+          <h3>Linux</h3>
+          <p>Administración de sistemas y optimización de entornos de trabajo.</p>
+        </div>
+        <div class="skill">
+          <h3>Docker & GitHub</h3>
+          <p>Implementación de CI/CD y despliegue de aplicaciones en contenedores.</p>
+        </div>
+        <div class="skill">
+          <h3>HTML & CSS</h3>
+          <p>Desarrollo de interfaces web modernas, atractivas y responsivas.</p>
+        </div>
+        <div class="skill">
+          <h3>Matemática</h3>
+          <p>Más de 20 años de experiencia en enseñanza de matemáticas y estadística.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="proyectos" class="projects">
+    <div class="container">
+      <h2>Proyectos Destacados</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="images/no_one_fights_alone.png" alt="No One Fights Alone Breast Cancer">
+          <h3>API de predicción de Cáncer de Mama</h3>
+          <p>Modelo predictivo, académico, no profesional, desplegado con Docker y CI/CD en GitHub Actions.</p>
+          <a href="https://github.com/harrueds/API_breast_cancer_prediction" class="btn">Ver en GitHub</a>
+        </div>
+        <div class="project-card">
+          <img src="images/medical.png" alt="">
+          <h3>Segmentación y detección de anomalías en pacientes crónicos</h3>
+          <p>Implementación de un modelo no supervisado sobre un dataset clínico de pacientes con visualización detallada.</p>
+          <a href="https://github.com/harrueds/Segmentation_Chronicles" class="btn">Ver en GitHub</a>
+        </div>
+        <div class="project-card">
+          <img src="https://via.placeholder.com/400x250" alt="Proyecto 3">
+          <h3>Servidor Linux DietPi</h3>
+          <p>Reutilización de hardware para servidor Samba liviano en red local.</p>
+          <a href="#" class="btn">Leer más</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contacto" class="contact">
+    <div class="container">
+      <h2>Contacto</h2>
+      <p>¿Quieres colaborar o saber más? Escríbeme:</p>
+      <a href="mailto:harrueds@gmail.com" class="btn">Enviar Correo</a>
+      <p class="social">
+        <a href="https://github.com/harrueds" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/henzo-arrué-muñoz" target="_blank">LinkedIn</a>
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Henzo Alejandro Arrué Muñoz — Portafolio Profesional</p>
+  </footer>
+</body>
+</html>
