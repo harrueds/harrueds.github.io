@@ -1,0 +1,6 @@
+# Permitir que todos los motores de búsqueda indexen el sitio
+User-agent: *
+Allow: /
+
+# Enlazar el sitemap para facilitar la indexación
+Sitemap: https://harrueds.github.io/sitemap.xml
