@@ -104,7 +104,11 @@ Aunque GitHub Pages soporta CI/CD, en este proyecto **no es necesario** porque:
 - **GitHub Pages** para despliegue
 - **Metadatos** SEO y Open Graph / Twitter Card
 
+---
+
 ### 8. Enlace al Portafolio
 
 El portafolio está disponible en línea:
 [https://harrueds.github.io/](https://harrueds.github.io/)
+
+---
