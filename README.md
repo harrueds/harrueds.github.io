@@ -29,7 +29,7 @@ Mi objetivo es combinar la enseñanza y la investigación aplicada para generar 
 ### 3. Proyectos Destacados
 
 | Proyecto | Descripción | Objetivos | Tecnologías | Código Fuente | Reflexión |
-|----------|-------------|-----------|-------------|---------------|-----------|
+|------------|---------------|-------------|---------------|-----------------|---------------|
 | API de Predicción de Cáncer de Mama | Modelo predictivo académico para clasificación de cáncer de mama, desplegado como API. | Practicar entrenamiento de modelos y despliegue de APIs. | Python, scikit-learn, Flask, Docker, GitHub Actions | [API_breast_cancer_prediction](https://github.com/harrueds/API_breast_cancer_prediction) | Aprendí a integrar modelos en una API y automatizar el despliegue con CI/CD, comprendiendo la importancia de reproducibilidad y documentación. |
 | Segmentación y Detección de Anomalías en Pacientes Crónicos | Modelo no supervisado para detectar patrones y anomalías en datos clínicos. | Aplicar técnicas de segmentación y análisis exploratorio de datos. | Python, pandas, scikit-learn, matplotlib, seaborn | [Segmentation_Chronicles](https://github.com/harrueds/Segmentation_Chronicles) | Mejoré habilidades en limpieza y análisis de datos, y aprendí la importancia de la visualización para comunicar resultados complejos. |
 | Portafolio Personal Online | Portafolio profesional accesible en línea con secciones de habilidades, proyectos y contacto. | Mostrar competencias técnicas y proyectos de manera clara y profesional. | HTML5, CSS3, Google Fonts, GitHub Pages | Este repositorio | Aprendí buenas prácticas de diseño web, accesibilidad, SEO básico y cómo estructurar contenido para una navegación clara y efectiva. |
