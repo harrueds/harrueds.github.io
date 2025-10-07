@@ -64,6 +64,8 @@ Mi objetivo es combinar la enseñanza y la investigación aplicada para generar 
 | Enlace al repositorio | [Scoring Crediticio con RNP](https://github.com/harrueds/Scoring_Crediticio_RNP)|
 | Reflexiones | Aprendí a estructurar notebooks de manera profesional, documentando cada paso del análisis y validando los resultados mediante métricas y visualizaciones reproducibles.|
 
+---
+
 ### 4. Organización y Diseño
 
 - Navegación clara mediante menú superior: **Inicio, Habilidades, Proyectos, Contacto**.  
