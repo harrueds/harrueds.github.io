@@ -6,10 +6,10 @@
 
 ### 1. Nombre y Presentación Personal
 
-**Henzo Alejandro Arrué Muñoz** — docente de matemáticas y estadística con más de 20 años de experiencia.  
+**Henzo Alejandro Arrué Muñoz**
+Profesional con competencias completas en diseño, implementación, optimización e interpretación de modelos predictivos.
 Me especializo en **Machine Learning, análisis de datos y administración de sistemas Linux**.  
 Mis intereses profesionales incluyen el **desarrollo de soluciones basadas en datos, automatización y despliegue de aplicaciones mediante Docker y GitHub Actions**.  
-Mi objetivo es combinar la enseñanza y la investigación aplicada para generar proyectos innovadores en educación y ciencia de datos.
 
 ---
 
