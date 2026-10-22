@@ -1,9 +1,11 @@
-# Professional Portfolio
+# THE REPOSITORY IS BEING RESTRUCTURED AND UPDATED
+
+# Professional Portfolio 
 
 ## Henzo Alejandro Arrué Muñoz
 
 ---
-
+<!--
 ### 1. Name and Personal Presentation
 
 **Henzo Alejandro Arrué Muñoz**, a professional with complete competencies in the design, implementation, optimization, and interpretation of predictive models.  
@@ -113,3 +115,4 @@ The portfolio is available online:
 [https://harrueds.github.io/](https://harrueds.github.io/)
 
 ---
+-->
